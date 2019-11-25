@@ -1,0 +1,28 @@
+/*-----------------style for nav bar------------- */
+
+.link:hover {
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(128, 128, 128);
+    color: white;
+}
+
+
+/* -------------------------------------------------- */
+
+body {
+    background: url(../image/test.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container h1 {
+    font-family: "Black Ops One", cursive;
+    font-family: "Fredericka the Great", cursive;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+
+.container p {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
